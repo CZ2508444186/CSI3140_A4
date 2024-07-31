@@ -22,5 +22,10 @@ Open Command Prompt or PowerShell.
 ##### cd \path\to\project\sql
 ##### mysql -u root -p
 ##### source setup.sql;
+##### 2. Start the php
+Open Command Prompt or PowerShell.
+##### cd \path\to\project
+##### php -S localhost:8000
+##### Open a web browser and navigate to http://localhost:8000.
 
 
