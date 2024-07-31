@@ -18,4 +18,5 @@ Your project files should be correctly structured in a directory.
 
 #### Here is possible steps for windows.
 Open Command Prompt or PowerShell.
+##### cd \path\to\project\sql
 
