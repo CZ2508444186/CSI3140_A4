@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; // or your host
 $dbname = 'triage_db';
-$username = 'root'; // or your db username
-$password = 'Y17386009957'; // or your db password
+$username = 'root'; // use your database username
+$password = 'PASSWORD'; // use your database password
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
