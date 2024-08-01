@@ -37,6 +37,18 @@ Open Terminal.
 #### cd /path/to/project
 #### php -S localhost:8000
 #### Open a web browser and navigate to http://localhost:8000.
+## Log in page
+### For admin: Username: admin; password: adminpass
+### For patient: Patient name; Patient code (created by admin)
+![3441722469719_ pic](https://github.com/user-attachments/assets/83bf3ca2-76ad-4deb-8e66-422831f7bd50)
+
+## Admin perspective:
+![WeChat0da8411cb9b11e392d4976992f0cc44e](https://github.com/user-attachments/assets/fa30a353-ec11-42c4-9dc4-dcf9080c5e85)
+
+## Patient perspective
+![3461722470896_ pic](https://github.com/user-attachments/assets/dca8c038-b4c5-459e-95c3-f5ec0244720e)
+
+
 
 
 
